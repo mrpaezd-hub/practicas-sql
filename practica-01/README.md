@@ -1,7 +1,7 @@
 # Práctica 01 - SQL
 
 ## Objetivo
-(Sprints)
+Practicar consultas básicas SQL (SELECT, WHERE, ORDER BY)
 
 ## Consultas realizadas
 
